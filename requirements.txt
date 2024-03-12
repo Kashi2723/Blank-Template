@@ -1,0 +1,13 @@
+setuptools
+pandas
+scikit-learn
+numpy
+seaborn
+matplotlib
+loguru
+python-dotenv
+ipykernel
+
+
+
+-e .
